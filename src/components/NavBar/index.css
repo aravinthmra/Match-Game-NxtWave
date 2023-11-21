@@ -1,0 +1,40 @@
+.match-game-navbar1 {
+  display: flex;
+  justify-content: space-between;
+  height: 72px;
+  background-color: #2c0e3a;
+  padding: 16px;
+  color: #ffffff;
+  font-size: larger;
+  font-weight: bold;
+}
+.match-game-logo-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.match-game-logo-image1 {
+  height: 100%;
+}
+
+.stats-container1 {
+  display: flex;
+  align-items: center;
+}
+
+.timer-container1 {
+  display: flex;
+  align-items: center;
+}
+
+.timer-logo-image1 {
+  width: 18px;
+  height: 18px;
+  margin-right: 4px;
+}
+
+span {
+  margin: 0 12px 0 0;
+  color: #fec653;
+}
